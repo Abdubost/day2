@@ -1,0 +1,202 @@
+  @import url('https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@300;400;500;600;700&display=swap');
+*{
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul,ol{
+    list-style: none;
+}
+
+body{
+    font-family: 'Hind Madurai', sans-serif;
+}
+
+.all-container{
+    margin-left: auto;
+    margin-right:auto;
+    max-width: 1100px;
+}
+
+.box{
+    margin-right: 40px;
+    margin-left: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.container{
+    max-width: 1100px;
+    background: #F2CEDA;
+}
+
+.list{
+    display: flex;
+}
+
+.item:hover{
+    border-bottom: 3px solid #000;
+}
+
+.btn-link{
+    margin-right: 20px;
+    margin-left: 172px;
+    background-color: #D23166;
+    display: inline-block;
+    border-radius: 5px;
+    color: #fff;
+    padding: 14px 50px 13px 50px;
+}
+
+.link{
+    color: #150101;
+    margin-left: 40px;
+}
+
+.link:hover{
+    color: #D23166;
+}
+
+.box2{
+    display: flex;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 37px;
+}
+
+.content-title{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 57.33px;
+    line-height: 120.5%;
+    color: #0F0101;
+    opacity: 0.9;
+    width: 505px;
+}
+
+.box2-link{
+    padding: 13px 50px 19px 50px;
+    background-color: #D23166;
+    color: #fff;
+    border-radius: 5px;
+    position: relative;
+    top: 20px; 
+    right: 257px;
+}
+
+.ice{
+    position: relative;
+    left: 330px;
+    bottom: 105px;
+    color: #D23166;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 57.33px;
+    line-height: 120.5%;
+    opacity: 0.9;
+}
+
+.content-list{
+    display: flex;
+    justify-content:space-between;
+}
+
+.content-text{
+    position: absolute;
+    bottom:270px;
+    width: 523px;
+}
+
+.box2-content{
+    position: relative;
+    top: 100px;
+}
+
+.box2-text{
+    width:198px;
+    text-align: center;
+}
+
+.box-title{
+    text-align: center;
+}
+
+.container3{
+    max-width: 1100px;
+    display: flex;
+    background-color: #F8EDF0;
+    margin-left: 40px;
+    margin-left: 40px;
+}
+
+.container-3-text{
+    width: 349px;
+}
+
+.container3-img{
+    width:100%;
+    height: auto;
+}
+
+.container3-btn{
+    color: #fff;
+    padding: 15px 41px 15px 42px;
+    background-color: #D64374;
+}
+
+.container3-content{
+    margin-left: 100px;
+    position: relative;
+    top: 120px;
+}
+
+.container3-text{
+    width: 442px;
+}
+
+.container3-link{
+    color: #fff;
+}
+
+.main-title{
+    text-align: center;
+}
+
+.main-list{
+    display: flex;
+}
+
+.main-item:hover{
+    border-bottom: 3px solid #D23166;
+    opacity: 0.6;
+}
+.main-item{
+    color: #000;
+    margin: 0px 40px 0px 40px;
+}
+
+.main-content-text{
+    width: 454px;
+}
+
+
+.price{
+    position:relative;
+    top: 15px;
+    left: 15px;
+    opacity: 0.6;
+}
+
+.pricing{
+    display: flex;
+}
+
+.main-container2{
+    margin-top: 40px;
+    display: flex;
+}
+
+.
